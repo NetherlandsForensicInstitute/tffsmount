@@ -1,0 +1,10 @@
+__pycache__/
+dist/
+.pytest_cache/
+.idea/
+.vscode/
+*.egg-info/
+.gitattributes
+test_env
+build/
+venv*
